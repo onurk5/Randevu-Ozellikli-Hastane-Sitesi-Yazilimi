@@ -75,9 +75,9 @@
 				    	<br>
 				    		<a href="index.php">Giriş Yap</a>
 				    						    	<br>
-				    		<a href="sifremiunuttum.php">Şifremi Unuttum</a>
+				    		<!-- <a href="sifremiunuttum.php">Şifremi Unuttum</a> -->
 				    	<br>
-				    		<a href="#">Desing by colorlib.com</a>
+				    		<a href="#">Desing by onur</a>
 				    	
 				</center>
 		</div>

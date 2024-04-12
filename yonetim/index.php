@@ -58,13 +58,13 @@
 			</form>
 				<center>
 				    	<br>
-				    		<a href="sifremiunuttum.php">Şifremi Unuttum</a>
+				    		<!-- <a href="sifremiunuttum.php">Şifremi Unuttum</a> -->
 				    	<br>
-				    		<a href="kayitol.php">Hesap Oluştur</a>
+				    		<a href="kayitol.php">Hesap Oluşturma</a>
 				    	<br>
 							<a href="../">Siteye Dön</a>
 						<br>
-							<a href="#">Desing by colorlib.com</a>
+							<a href="#">Desing by onur</a>
 				</center>
 		</div>
 	</div>
